@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0223-rectangle-area](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0400-nth-digit](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0400-nth-digit) |
 ## String
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0400-nth-digit](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0400-nth-digit) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
