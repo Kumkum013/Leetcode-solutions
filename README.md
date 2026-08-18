@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## String
@@ -11,4 +12,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
