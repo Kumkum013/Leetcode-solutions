@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0223-rectangle-area](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0400-nth-digit](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0400-nth-digit) |
+| [0593-valid-square](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0593-valid-square) |
 | [1492-the-kth-factor-of-n](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0593-valid-square](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0593-valid-square) |
 ## Array
 |  |
 | ------- |
