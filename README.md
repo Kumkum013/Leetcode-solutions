@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0223-rectangle-area](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0400-nth-digit](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0400-nth-digit) |
 | [0593-valid-square](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0593-valid-square) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -34,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0593-valid-square](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0593-valid-square) |
 ## Array
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 ## Matrix
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Pigeonhole Principle
 |  |
@@ -84,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1201-ugly-number-iii) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
