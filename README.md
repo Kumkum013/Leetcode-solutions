@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0136-single-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
