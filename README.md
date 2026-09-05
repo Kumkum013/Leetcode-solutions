@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1201-ugly-number-iii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1201-ugly-number-iii) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1492-the-kth-factor-of-n](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -154,9 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 <!---LeetCode Topics End-->
