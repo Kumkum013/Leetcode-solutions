@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Kumkum013/Leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Matrix
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Kumkum013/Leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Kumkum013/Leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
