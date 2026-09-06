@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1480-running-sum-of-1d-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Kumkum013/Leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1480-running-sum-of-1d-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Brainteaser
 |  |
 | ------- |
