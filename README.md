@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
@@ -135,10 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
