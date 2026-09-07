@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0400-nth-digit) |
 | [1201-ugly-number-iii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1201-ugly-number-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sorting
 |  |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Stack
