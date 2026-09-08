@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
+| [0724-find-pivot-index](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Brainteaser
