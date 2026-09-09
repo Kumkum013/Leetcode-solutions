@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 ## Counting
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
