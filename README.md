@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0525-contiguous-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0724-find-pivot-index](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0463-island-perimeter) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
