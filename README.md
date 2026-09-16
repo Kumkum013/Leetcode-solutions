@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Kumkum013/Leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
