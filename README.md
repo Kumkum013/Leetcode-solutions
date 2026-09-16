@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0724-find-pivot-index](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0832-flipping-an-image](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sorting
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Kumkum013/Leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Divide and Conquer
@@ -323,5 +327,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
