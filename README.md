@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
