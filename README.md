@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1768-merge-strings-alternately](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1768-merge-strings-alternately](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
