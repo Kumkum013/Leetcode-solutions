@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Stack
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1051-height-checker) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -453,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
