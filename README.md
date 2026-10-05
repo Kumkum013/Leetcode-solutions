@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0705-design-hashset) |
+| [0763-partition-labels](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0763-partition-labels) |
 | [0976-largest-perimeter-triangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Boyer–Moore Majority Vote Algorithm
