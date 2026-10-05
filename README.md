@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Stack
 |  |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
