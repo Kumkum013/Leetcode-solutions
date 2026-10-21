@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0400-nth-digit](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0400-nth-digit) |
+| [0523-continuous-subarray-sum](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0593-valid-square) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0523-continuous-subarray-sum](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Combinatorics
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0724-find-pivot-index) |
