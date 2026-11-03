@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -404,12 +405,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Kumkum013/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
